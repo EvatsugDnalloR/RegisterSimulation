@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register Simulation</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="TXTemail">Email</string>
+    <string name="TXT_last_name">Last Name</string>
+    <string name="TXT_first_name">First Name</string>
+    <string name="register">Register</string>
+</resources>
